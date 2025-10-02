@@ -1,8 +1,8 @@
     DO WHAT THE FUCK YOU WANT TO BUT IT'S NOT MY FAULT PUBLIC LICENSE
                     Version 1, October 2013
 
- Copyright © 2025 Briar Merrett
-
+ Copyright (C) 2025 Briar Merrett
+ 
  Everyone is permitted to copy and distribute verbatim or modified
  copies of this license document, and changing it is allowed as long
  as the name is changed.
